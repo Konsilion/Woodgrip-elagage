@@ -1,0 +1,70 @@
+# BIENVENU ! MODIFIER ICI LES PARAMETRES DE VOTRE PLATEFORME KATALOG
+# -------------------------------------------------
+
+
+# NAVIGATION
+# -------------------------------------------------
+
+nav:
+
+    - Accueil: index.md
+            
+    - Elagage & Entretien:
+
+        - Prestations & Service: pages/elagage/presentation.md
+
+        - Photos: pages/elagage/photos.md
+
+    - Highline & Découverte:
+
+        - De quoi parlons nous ?: pages/highline/presentation.md
+
+        - Les stages: pages/highline/stages.md
+        
+        - Photos: pages/highline/photos.md
+        
+    - À propos: pages/a-propos.md
+    
+    - Contact: pages/contact.md
+
+
+
+# SITE INFORMATIONS 
+# -------------------------------------------------
+
+site_name: Woodgrip - Elagage
+site_author: Nicolas Brémond
+site_description: Gestion de votre patrimoine arboré.
+site_url: https://woodgrip.fr
+repo_url: https://github.com/konsilion/Woodgrip-elagage
+
+extra:
+  katalog_repo: "https://github.com/konsilion/Woodgrip-elagage"
+  katalog_site: "https://woodgrip.fr"
+  katalog_mdp: "woodgrip"
+  
+
+# LANGUE, COULEURS et LOGO
+#
+# [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
+# -------------------------------------------------
+
+theme:
+    language: fr
+    palette:
+        primary: white
+        accent: green
+    logo: https://github.com/Konsilion/konsilion-drive/blob/main/logo_woodgrip.png?raw=true
+    favicon: https://github.com/Konsilion/konsilion-drive/blob/main/favicon_woodgrip.png?raw=true
+
+
+
+# MENTIONS 
+# -------------------------------------------------
+
+copyright: Une plateforme open-source codé avec ❤ par Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0 <br> Un grand merci à <u><a href="https://www.multi.coop/" target="_blank">multi</a></u> et <u><a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">mkdocs-material</a></u> pour le support technique 
+
+
+# /!\   NE PAS MODIFIER CI-DESSOUS   /!\
+# -------------------------------------------------
+INHERIT: ./docs/admin/env
