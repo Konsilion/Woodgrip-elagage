@@ -1,8 +1,8 @@
-name: ci 
+name: ci
 on:
   push:
     branches:
-      - master 
+      - master
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -16,4 +16,8 @@ jobs:
       - run: pip install mkdocs-video
       - name: Change working directory and run mkdocs gh-deploy
         working-directory: mkdocs
-        run: mkdocs gh-deploy --force
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          export GH_TOKEN=$(echo "${{ secrets.GITHUB_TOKEN }}")
+          mkdocs gh-deploy --force --config-file mkdocs.yml --remote-branch gh-pages --remote-url "https://x-access-token:${GH_TOKEN}@github.com/Konsilion/Woodgrip-elagage.git"
