@@ -14,10 +14,10 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-macros-plugin
       - run: pip install mkdocs-video
+      - run: ls -a
       - name: Change working directory and run mkdocs gh-deploy
         working-directory: mkdocs
         run: |
           git config user.name "GitHub Actions"
           git config user.email "github-actions@users.noreply.github.com"
-          export GH_TOKEN=$(echo "${{ secrets.GITHUB_TOKEN }}")
-          mkdocs gh-deploy --force --config-file mkdocs.yml --remote-branch gh-pages --remote-url "https://x-access-token:${GH_TOKEN}@github.com/Konsilion/Woodgrip-elagage.git"
+          mkdocs gh-deploy --force --config-file mkdocs.yml --remote-branch gh-pages
