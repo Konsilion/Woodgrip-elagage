@@ -5,7 +5,7 @@ hide:
 ---
 
 
-![logo-accueil](https://github.com/Konsilion/konsilion-drive/blob/main/logo_woodgrip_elagage_banner.png?raw=true){style="max-width: 100%; width: 450px"}
+![logo-accueil](https://github.com/Konsilion/konsilion-drive/blob/main/logo_woodgrip_elagage_banner.png?raw=true){style="max-width: 90%; width: 650px"}
 
 ---
 
