@@ -14,10 +14,6 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install mkdocs-macros-plugin
       - run: pip install mkdocs-video
-      - run: ls -a
       - name: Change working directory and run mkdocs gh-deploy
         working-directory: mkdocs
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          mkdocs gh-deploy --force --config-file mkdocs.yml --remote-branch gh-pages
+        run: mkdocs gh-deploy --force
