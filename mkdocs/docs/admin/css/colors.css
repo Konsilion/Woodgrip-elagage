@@ -1,7 +1,7 @@
 /* ======= OVERWRITE COLOR MKDOCS - Deactivate ======= */
 
 :root > * {
-    /*--md-primary-fg-color: #505050 !important;*/
+    --md-primary-fg-color: #F0DBBE !important;
 }
 
 	
@@ -9,3 +9,33 @@
     background-color: rgba(0,0,0,0.05);
     border-top: 1px solid grey;
 }
+
+.md-tabs__link--active, .md-tabs__link:is(:hover)  {
+    font-weight: 800;
+}
+
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: -10px;
+}
+
+.gallery-item {
+  width: calc(50% - 20px);
+  margin: 10px;
+  position: relative;
+}
+
+.gallery-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 768px) {
+  .gallery-item {
+    width: calc(100% - 20px);
+  }
+}  

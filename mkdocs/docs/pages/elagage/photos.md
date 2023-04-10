@@ -36,7 +36,7 @@ Vous **cherchez un professionnel pour prendre soin de vos arbres** et de vos esp
 
 ---
 
-[Nous contacter](./pages/informations/#contact){ .md-button .md-button--primary style="background-color: green; color: white; border: 2px solid black; float: right"}
+[Nous contacter](./pages/informations/#contact){ .md-button .md-button--primary}
 
 
 <style>

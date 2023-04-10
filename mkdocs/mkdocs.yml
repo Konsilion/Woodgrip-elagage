@@ -20,9 +20,7 @@ nav:
         - De quoi parlons nous ?: pages/highline/presentation.md
 
         - Les stages: pages/highline/stages.md
-        
-        - Photos: pages/highline/photos.md
-        
+
     - À propos: pages/a-propos.md
     
     - Contact: pages/contact.md
@@ -54,7 +52,7 @@ theme:
     palette:
         primary: white
         accent: green
-    logo: https://github.com/Konsilion/konsilion-drive/blob/main/logo_woodgrip.png?raw=true
+    logo: https://github.com/Konsilion/konsilion-drive/blob/main/logo_woodgrip-removebg-preview.png?raw=true
     favicon: https://github.com/Konsilion/konsilion-drive/blob/main/favicon_woodgrip.png?raw=true
 
 

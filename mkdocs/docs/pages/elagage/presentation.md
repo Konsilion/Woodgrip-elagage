@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet pell
 
 <style>
     .md-container {
-        background: linear-gradient(225deg,rgba(253, 190, 79, 0.1) 10%, rgba(255,242,234,0.0) 15%, rgba(255,242,234,0.0) 60%, rgba(255, 255, 234, 1));
+        background: linear-gradient(225deg,rgba(255, 255, 234, 1) 10%, rgba(255,255,255,0.0) 15%, rgba(255,255,255,0.0) 60%, rgba(253, 190, 79, 0.1));
     }
 
     .md-sidebar__scrollwrap {

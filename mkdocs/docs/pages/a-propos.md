@@ -9,52 +9,20 @@ hide:
 ---
 
 
-# À propos
+![photo-thomas-faure](https://scontent.flyn1-1.fna.fbcdn.net/v/t39.30808-6/241978496_10159063721540067_6782798376289811654_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=qzoHEJfIxTkAX-F4g5O&_nc_ht=scontent.flyn1-1.fna&oh=00_AfBe3OVsok387A2osF0q77J3X_C2vqNTxNK7B3SqYLw40w&oe=643856E7){style="display: block; float: right; margin: 50px; max-height: 250px; border-radius: 800px;"}
 
-=== "Notre motivation"
-
-    
-    C'est peu dire que le climat et la biodiversité ne sont pas dans une forme olympique 🤒. D'années en années nous n'avons eu de cesse de promouvoir des solutions high-tech qui aboutissent au final au remplacement systématique de modèles précédents jugés obsolètes.
-
-    Malheureusement ce schéma, n'a pas de réel avenir pour les raisons suivantes :
-
-    📉 De plus en plus compactes et légères, nos high-technologies sont en revanche de moins en moins durables. 
-
-
-    📈 La diminution des ressources naturelles rends le coût environnemental d'exploitation de plus en plus élevé. 
-
-
-    ❌ Raréfaction des ressources naturelles, moins de recyclabilité, hausse de la consommation par le renouvellement des équipements obsolètes perpétue un système dont les limites sont connues de tous, presque atteintes pour certaines et déjà dépassées pour d'autres. 
-
-    Il est donc temps de proposer des solutions utiles, accessibles et durables. Ce sont les Low-tech.
-
-=== "Notre proposition"
-
-    
-    Regroupés au sein de Konsilion, nous déployons la philosophie Low-tech. Ainsi informés et armés d'idées, nous vous proposons des solutions répondant concrètement à vos besoins.
-
-
-    ## KITS KONSILION
-
-    Dimensionner selon vos besoins et s’inscrivant pleinement dans le développement durable et local, votre Low-tech sera construite selon vos spécificités et celles de votre territoire. Ainsi nous vous proposons une méthode d’acquisition moins contraignante : Les Kits Konsilion.
-
-
-    ## ATELIERS DE FABRICATION
-
-    Seul ou en petit groupe venez réaliser votre équipement Low-tech. Avec un.e artisan.e local.e vous aurez le savoir faire et les outils nécessaires à la réalisation d'un produit dans les règles de l'art. Inscrivez-vous à une session d'atelier existante ou exprimer le souhait d'en voir une près de chez vous.
-
-
-    ## RECHERCHE & DÉVELOPPEMENT
-
-    Nous mettons à disposition tous les outils nécessaires à la R&D 'OpenSource'. Nous avons ainsi regroupé les outils numériques et les méthodes de développement en deux outils, Katalog et Konnect.
-
+# Thomas Faure - Dirigeant de Woodgrip élagage
 
 ---
 
-## **Contact**
+Au fil des années, j'ai parcouru un chemin fascinant, tissant une histoire riche en expériences et en découvertes. Mon parcours a débuté dans le monde des métiers de bureau et de gestion, où j'ai acquis des compétences précieuses et un sens aigu de l'organisation. Cependant, au fond de moi, un appel persistant me poussait vers la nature et le grand air.
 
-* contact@konsilion.fr
+La décision de changer de cap et de me réorienter vers un métier plus en phase avec ma passion pour l'extérieur a été un tournant majeur dans ma vie. J'ai choisi de suivre une formation en élagage, où j'ai appris les subtilités et les techniques de ce métier exigeant. Ce nouveau défi m'a permis de combiner ma passion pour la nature et mon souci du détail, tout en renouant avec l'essence même de mon être.
 
-* 06 61 26 23 26
+Parallèlement à mon parcours professionnel, je me suis également immergé dans le monde des sports outdoor depuis bientôt 10 ans. La pratique assidue et passionnée de la slackline, de la highline et d'autres activités en plein air m'a permis de développer une force intérieure, un équilibre et une confiance en moi qui ont été essentiels dans ma quête d'épanouissement personnel et professionnel.
 
-* Grenoble, ISÈRE
+En tant qu'élagueur et adepte des sports outdoor, je m'efforce chaque jour de repousser mes limites et d'explorer de nouvelles frontières. La connexion profonde avec la nature et l'adrénaline ressentie lors de la réalisation de prouesses en hauteur sont une source d'inspiration constante pour moi. Mon parcours est la preuve que lorsque nous suivons notre cœur et nos passions, les opportunités se révèlent et nous permettent de vivre une vie authentique et épanouissante.
+
+---
+
+![logo-accueil](https://github.com/Konsilion/konsilion-drive/blob/main/logo_woodgrip_square.png?raw=true){style="max-width:40%; width: 200px; display: block; margin: 25px auto;"}
